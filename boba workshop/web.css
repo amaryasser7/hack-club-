@@ -1,0 +1,30 @@
+#image{
+    color: blue;
+    font-family:cursive;
+    display: 50;
+    margin-left: auto;
+    margin-right:auto;
+    width: 20%;
+    opacity: 1;
+
+}
+h1{
+    text-align: center;
+    color: blue;
+    size: 90PX;
+    font-family: cursive;
+}
+body{
+ background-image: url("background.jpeg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+}
+#par{
+justify-content:
+font-family: cursive;
+color: aliceblue;
+font-size: 25px;
+text-align:center;
+
+}
